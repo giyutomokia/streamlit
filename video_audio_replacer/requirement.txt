@@ -1,0 +1,4 @@
+streamlit
+moviepy  # Or the latest version compatible with Python 3.12
+SpeechRecognition
+pyttsx3
