@@ -1,5 +1,4 @@
-# requirements.txt
-streamlit==1.39.0
+streamlit==1.19.0  # Check for the latest version that is compatible with your Python version
 moviepy==1.0.3
-speechrecognition==3.9.0
+SpeechRecognition==3.8.1
 pyttsx3==2.9
