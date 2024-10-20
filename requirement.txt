@@ -1,0 +1,5 @@
+# requirements.txt
+streamlit==1.39.0
+moviepy==1.0.3
+speechrecognition==3.9.0
+pyttsx3==2.9
